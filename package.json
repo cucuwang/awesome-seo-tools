@@ -1,8 +1,0 @@
-{
-  "name": "awesome-seo-tools",
-  "private": true,
-  "scripts": {
-    "generate:readme": "bun scripts/generate-readme.ts",
-    "verify": "bun scripts/verify-directory.ts"
-  }
-}

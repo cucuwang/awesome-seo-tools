@@ -1,14 +1,14 @@
 # Contributing
 
-This directory is maintained from `data/awesomeSeoTools.ts`.
+The README is the complete directory and its source of truth. There is no build step.
 
 ## Add or update a tool
 
 1. Confirm the product and pricing from the vendor's official website.
-2. Update the relevant entry in `data/awesomeSeoTools.ts`.
+2. Edit the relevant table in `README.md` directly.
 3. Use `See website` when a starting price cannot be confidently verified.
 4. Add the tool to every genuinely relevant category; duplicate rows are intentional when a product fits multiple workflows.
-5. Run `bun run generate:readme` and `bun run verify`.
+5. Keep the table columns, alphabetical order, and direct vendor links intact.
 
 ## Listing policy
 

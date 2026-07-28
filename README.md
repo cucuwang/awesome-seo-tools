@@ -579,13 +579,6 @@ Preview, validate, and improve social metadata that supports content distributio
 | [Open Graph Debugger](https://developers.facebook.com/tools/debug/) | Debug Open Graph metadata before sharing. | [See website](https://developers.facebook.com/tools/debug/) | varies | Check website |
 | [ShotOG](https://github.com/nicepkg/shotog) | Open-source edge-native Open Graph image generation API. | [See website](https://github.com/nicepkg/shotog) | varies | Check website |
 
-## Maintain this list
+## Contribute
 
-The source of truth is [data/awesomeSeoTools.ts](data/awesomeSeoTools.ts). After any change, run:
-
-```bash
-bun run generate:readme
-bun run verify
-```
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for listing and verification rules. Product names and trademarks belong to their respective owners; a listing does not imply endorsement.
+This README is the complete, static source of truth. Edit the relevant category table directly and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for the listing rules. Product names and trademarks belong to their respective owners; a listing does not imply endorsement.
