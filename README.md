@@ -163,6 +163,7 @@ Crawl sites, find technical defects, and monitor indexability at scale.
 | [Lumar](https://www.lumar.io/) | Enterprise technical SEO, crawling, and website intelligence. | [Custom](https://www.lumar.io/pricing/) | quote-based | Demo available |
 | [Moz On-Page Grader](https://moz.com/tools/onpage-grader) | Analyse individual-page optimisation opportunities. | [See website](https://moz.com/tools/onpage-grader) | varies | Check website |
 | [Netpeak Spider](https://netpeaksoftware.com/spider) | Desktop crawler for SEO audits and website scraping. | [See website](https://netpeaksoftware.com/prices) | varies | See pricing page |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Agent-led technical and on-page SEO audits using live search data, with fixes proposed as reviewable pull requests. | [Free](https://github.com/nowork-studio/NotFair) | open source | Uses an existing Codex or Claude Code login |
 | [Oncrawl](https://www.oncrawl.com/) | Technical SEO, log analysis, and data-driven crawling. | [Custom](https://www.oncrawl.com/pricing/) | quote-based | Free trial or demo |
 | [OptimalUX](https://optimalux.com/seo-patching) | Real-time SEO patching and A/B testing. | [See website](https://optimalux.com/seo-patching) | varies | Check website |
 | [PressProxy](https://pressproxy.io/) | Serve a blog under a primary domain path with Cloudflare Workers. | [See website](https://pressproxy.io/) | varies | Check website |
@@ -253,6 +254,7 @@ Generate, refresh, optimise, and scale SEO content with editorial control.
 | [Hypertxt](https://hypertxt.ai) | Generate deeply researched SEO and GEO content. | [See website](https://hypertxt.ai) | varies | Check website |
 | [Jasper](https://www.jasper.ai/) | AI content platform for marketing teams and workflows. | [$69/mo](https://www.jasper.ai/pricing) | monthly | 7-day free trial |
 | [Koala](https://koala.sh/) | AI writing and chatbot tools for publishers. | [$9/mo](https://koala.sh/pricing) | monthly | Free trial |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Local SEO agents that diagnose organic-search issues from live data and improve metadata, headings, structured data, and content through reviewable changes. | [Free](https://github.com/nowork-studio/NotFair) | open source | Uses an existing Codex or Claude Code login |
 | [Outranking](https://www.outranking.io/) | AI SEO strategy, briefs, and content optimisation. | [See website](https://www.outranking.io/pricing) | varies | See pricing page |
 | [RankIQ](https://www.rankiq.com/) | Keyword libraries and AI content optimisation for bloggers. | [$49/mo](https://www.rankiq.com/pricing) | monthly | Free trial |
 | [Scalenut](https://www.scalenut.com/) | AI content planning, writing, and optimisation suite. | [$59/mo](https://www.scalenut.com/pricing) | monthly | 7-day free trial |
