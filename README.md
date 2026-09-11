@@ -9,8 +9,8 @@
 01. [All-in-one SEO platforms](#all-in-one-seo-platforms) (24)
 02. [Keyword research and clustering](#keyword-research-and-clustering) (30)
 03. [Rank tracking and SERP intelligence](#rank-tracking-and-serp-intelligence) (31)
-04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (36)
-05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (41)
+04. [Technical SEO crawlers and audits](#technical-seo-crawlers-and-audits) (38)
+05. [On-page SEO and content optimisation](#on-page-seo-and-content-optimisation) (42)
 06. [AI SEO and content creation](#ai-seo-and-content-creation) (23)
 07. [Backlink research and link building](#backlink-research-and-link-building) (20)
 08. [Digital PR and outreach](#digital-pr-and-outreach) (14)
@@ -26,12 +26,12 @@
 18. [Free search-engine tools](#free-search-engine-tools) (10)
 19. [Uptime and website monitoring](#uptime-and-website-monitoring) (6)
 20. [SEO browser extensions](#seo-browser-extensions) (19)
-21. [SEO validators and checkers](#seo-validators-and-checkers) (20)
+21. [SEO validators and checkers](#seo-validators-and-checkers) (21)
 22. [Social media and Open Graph](#social-media-and-open-graph) (5)
 
 ## About
 
-- **259 unique tools** across **22 SEO workflows**.
+- **261 unique tools** across **22 SEO workflows**.
 - Direct vendor links only; no affiliate links or sponsored ordering.
 - Listings are alphabetical within each category.
 - Pricing last reviewed: **21 July 2026**. Prices can change; always confirm on the vendor website before buying.
@@ -156,6 +156,7 @@ Crawl sites, find technical defects, and monitor indexability at scale.
 | [BROWSEO](https://www.browseo.net) | View a page through a search-engine-style text rendering. | [See website](https://www.browseo.net) | varies | Check website |
 | [Checkbot](https://www.checkbot.io/) | Browser crawler for common SEO, speed, and security checks. | [See website](https://www.checkbot.io/) | varies | Check website |
 | [ContentKing](https://www.contentkingapp.com/) | Real-time SEO monitoring and change detection. | [See website](https://www.contentkingapp.com/pricing/) | varies | See pricing page |
+| [geoptimize](https://github.com/cucuwang/geoptimize) | Deterministic page and bounded site audits for static websites and documentation. | [Free](https://github.com/cucuwang/geoptimize) | open source | Free tool |
 | [Hexometer](https://hexometer.com/) | Website monitoring for technical, performance, and SEO issues. | [$9/mo](https://hexometer.com/pricing) | monthly | Free plan |
 | [JetOctopus](https://jetoctopus.com/) | Cloud crawler, log analyser, and SEO dashboard. | [See website](https://jetoctopus.com/pricing/) | varies | See pricing page |
 | [LibreCrawl](https://librecrawl.com/) | Open-source crawler with JavaScript rendering and unlimited URL crawling. | [See website](https://librecrawl.com/) | varies | Check website |
@@ -206,6 +207,7 @@ Improve pages, briefs, entities, topical coverage, and content quality.
 | [Dashword](https://www.dashword.com/) | Content briefs, optimisation reports, and monitoring. | [$99/mo](https://www.dashword.com/pricing) | monthly | Free trial |
 | [DiagnoSEO](https://diagnoseo.com/) | AI-powered SEO and content marketing tools with a WordPress plugin. | [See website](https://diagnoseo.com/) | varies | Check website |
 | [Frase](https://www.frase.io/) | SERP research, content briefs, writing, and optimisation. | [See website](https://www.frase.io/pricing) | varies | See pricing page |
+| [geoptimize](https://github.com/cucuwang/geoptimize) | Lint document structure, sourced claims, metadata, and repetitive wording in static sites and docs. | [Free](https://github.com/cucuwang/geoptimize) | open source | Free tool |
 | [GrackerAI](https://gracker.ai/) | AI editorial and programmatic SEO for B2B cybersecurity teams. | [See website](https://gracker.ai/) | varies | Check website |
 | [GrowthBar](https://www.growthbarseo.com/) | AI writing and optimisation for SEO-friendly content. | [See website](https://www.growthbarseo.com/) | varies | Check website |
 | [Hypertxt](https://hypertxt.ai) | Generate deeply researched SEO and GEO content. | [See website](https://hypertxt.ai) | varies | Check website |
@@ -552,6 +554,7 @@ Validate sitemaps, structured data, redirects, metadata, and technical SEO signa
 | [Broken Link Checker](https://www.brokenlinkcheck.com/) | Find and report broken links on a website. | [See website](https://www.brokenlinkcheck.com/) | varies | Check website |
 | [Checkbot](https://www.checkbot.io/) | Browser crawler for common SEO, speed, and security checks. | [See website](https://www.checkbot.io/) | varies | Check website |
 | [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) | Generate FAQ structured-data markup. | [See website](https://foxmaya.com/tools/faq-schema-generator) | varies | Check website |
+| [geoptimize](https://github.com/cucuwang/geoptimize) | Check indexing controls, structured-data hygiene, canonical URLs, and metadata locally or in CI. | [Free](https://github.com/cucuwang/geoptimize) | open source | Free tool |
 | [Google Rich Results Test](https://search.google.com/test/rich-results) | Test pages and code for Google rich-result eligibility. | [Free](https://search.google.com/test/rich-results) | free tool | Free tool |
 | [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) | Build JSON-LD structured data markup. | [See website](https://www.jamesdflynn.com/json-ld-schema-generator/) | varies | Check website |
 | [Lighthouse](https://developer.chrome.com/docs/lighthouse/) | Open-source audits for performance, accessibility, and SEO. | [Free](https://developer.chrome.com/docs/lighthouse/) | open source | Free tool |
